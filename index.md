@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# GloDroid
----
 
 ## What is Glodroid
 
@@ -13,7 +11,11 @@ Glodroid is a project that adapts Android Open-Source Project to support Orange 
    * Close to mainline Android as much as it's possible;
    * Provided with necessary libraries and software so user/customer could have up and running latest Android OS with no efforts
 
+---
+
 ![Imame](./assets/images/GloDroid.jpg)
+
+---
 
 ### Fetch and Build
 ```shell
@@ -25,11 +27,7 @@ source ./build/envsetup.sh
 lunch plus2e-userdebug
 make sdcard
 ```
+---
 
 ### Presentation
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQud4_nsH-UFpPsVYR7IPTBDYwzyqr-JgiRL452GcZIvm_PXkGaeBMiccsOgaId9aT-dpoPXe4cR_-z/embed?start=true&loop=true&delayms=3000" frameborder="0" width="620" height="367" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-----
-
-###### All rights reserved - Glodroid 2020 
-
