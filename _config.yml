@@ -1,6 +1,6 @@
 title: GloDroid
 description: Free and opensource AOSP based Android for the world's most accessible development platforms.
-theme: jekyll-theme-glodroid
+remote_theme: https://github.com/MaksymPrymierov/jekyll-theme-glodroid
 show_downloads: true
 
 github:
